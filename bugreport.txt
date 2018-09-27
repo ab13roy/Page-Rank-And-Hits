@@ -1,0 +1,10 @@
+HANDOUT 2 ADHERED
+EXECUTION CONVENTION ADHERED TO THE PROJECT DOCUMENT
+Following bugs have been identified and addressed:
+ 1. Null Pointer Exception :- Thrown due to unwanted white spaces in the graph txt file. Please make sure there are no redundant white spaces in the txt file
+ 2. ArrayIndexOutOfBounds :- Thrown only if the number of vertices in the graph is not in conjunction with the first line of the file i.e the number of the vertices in the graph
+
+NO OTHER ERRORS OR BUGS HAVE BEEN ENCOUNTERED.
+THE HITSMAIN AND PAGEMAIN ARE THE FILES HAVING THE LOGIC AND COMPUTATIONS.
+THE HITS AND PAGE FILES RUN THE LOGIC CONTAINED WITHIN THE MAIN FILES.
+FOR EXECUTION PLEASE COMPILE THE HTIS AND PAGE FILES NOT THE MAIN AS THEY WILL BE COMPILED AS WELL WITH THE HITS AND PAGE FILES. NO NEED TO COMPILE EACH FILES SEPERATELY, THEN PLEASE RUN THE CLASS FILE OF HITS AND PAGE NOT THE CLASS FILES OF HITSMAIN AND PAGEMAIN.
